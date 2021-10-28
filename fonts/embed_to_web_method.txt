@@ -1,0 +1,8 @@
+===== Embed 字体到网页 并 让字体文件尽量变小的方法 ======
+
+1. Yifang用了这两个(2021-08-09)
+https://fonttools.readthedocs.io/en/latest/
+https://cyh.me/2020/04/font-minification/
+
+2. 这个尝试了，但是没有成功
+https://www.fontsquirrel.com/tools/webfont-generator
